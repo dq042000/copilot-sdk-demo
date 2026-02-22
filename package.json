@@ -1,0 +1,16 @@
+{
+  "name": "copilot-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MikeCi <dq042000@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.25"
+  }
+}
