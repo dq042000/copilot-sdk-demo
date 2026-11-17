@@ -4,7 +4,7 @@ const client = new CopilotClient();
 await client.start();
 
 const session = await client.createSession({
-    model: "gpt-5-mini",
+    model: "gpt-5.3-codex",
     streaming: true,
 });
 

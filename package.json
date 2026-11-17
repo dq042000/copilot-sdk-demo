@@ -12,6 +12,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@github/copilot-sdk": "^0.1.25"
+    "@github/copilot-sdk": "^1.0.34"
   }
 }
